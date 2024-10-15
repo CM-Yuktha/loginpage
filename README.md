@@ -1,2 +1,2 @@
 # loginpage
-loginpage using python and kivi
+loginpage using python and tkinter
